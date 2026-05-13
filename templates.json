@@ -51,8 +51,8 @@
           {
             "name": "SNET_HOSTNAME",
             "label": "Service hostname",
-            "description": "Service hostname (should end in .stendahls.dev)",
-            "default": ".stendahls.dev"
+            "description": "Service hostname (should end in .got.io-internal.dev for internal services and .got.io-external.com for external services)",
+            "default": ".got.io-internal.dev"
           },
           {
             "name": "SNET_ENTRYPOINT",
@@ -138,8 +138,8 @@
           {
             "name": "SNET_HOSTNAME",
             "label": "Service hostname",
-            "description": "Service hostname (should end in .stendahls.dev)",
-            "default": ".stendahls.dev"
+            "description": "Service hostname (should end in .got.io-internal.dev for internal services and .got.io-external.com for external services)",
+            "default": ".got.io-internal.dev"
           },
           {
             "name": "SNET_ENTRYPOINT",
@@ -193,8 +193,8 @@
           {
             "name": "SNET_HOSTNAME",
             "label": "Service hostname",
-            "description": "Service hostname (should end in .stendahls.dev)",
-            "default": ".stendahls.dev"
+            "description": "Service hostname (should end in .got.io-internal.dev for internal services and .got.io-external.com for external services)",
+            "default": ".got.io-internal.dev"
           },
           {
             "name": "SNET_ENTRYPOINT",
